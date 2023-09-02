@@ -1,5 +1,6 @@
 ethon
 =====
+Modded for use in SRCBotX
 
 • Telegram_
 • Github_
